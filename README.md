@@ -1,4 +1,4 @@
-# lung-nodule-detection-ai-An AI Integrated Diagnostic Workstation for Real-Time Lung Nodule Characterization
+# "Lung Nodule Detection AI"- An AI Integrated Diagnostic Workstation for Real-Time Lung Nodule Characterization
 
 ## Overview
 This project is an AI-assisted diagnostic system designed for automated lung nodule detection and characterization using medical imaging techniques. The system applies image preprocessing and machine learning methods to analyze scan data and support real-time diagnostic decision-making.
